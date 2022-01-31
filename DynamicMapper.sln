@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicMapper", "DynamicMapper\DynamicMapper.csproj", "{0280F128-3BE2-4931-90F1-40BE1BDCEB1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicMapper", "DynamicMapper\DynamicMapper.csproj", "{0280F128-3BE2-4931-90F1-40BE1BDCEB1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicMapperExamples", "DynamicMapperExamples\DynamicMapperExamples.csproj", "{B82B2CA5-C406-4DFF-9EE4-015AF049DD5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicMapperExamples", "DynamicMapperExamples\DynamicMapperExamples.csproj", "{B82B2CA5-C406-4DFF-9EE4-015AF049DD5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelExample", "ModelExample\ModelExample.csproj", "{AE4DCC1F-0FB4-4E33-B203-8B7EEF014CA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelExample", "ModelExample\ModelExample.csproj", "{AE4DCC1F-0FB4-4E33-B203-8B7EEF014CA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1722951F-B0E2-473D-90B5-612E04A0E0DE}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
